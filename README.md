@@ -1,3 +1,3 @@
 # Embedded3
 This project uses an ATMega328P board and an external LCD to print out the typed key inputs
-a user enters to the keyboard/input device. 
+a user enters to the keyboard/input device. It includes the main.c file of the project.
